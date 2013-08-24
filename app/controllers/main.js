@@ -13,7 +13,8 @@ angular.module('App')
     });
 
    $scope.login = function(source) {
-     $http.post('http://zpn.herokuapp.com/api/checkin', { user: $scope.user, checkin: $scope.checkin })
+     //http://zpn.herokuapp.com
+     $http.post('/api/checkin', { user: $scope.user, checkin: $scope.checkin })
        .success(function(user) {
          $scope.page = 'rank';
          angularFire('https://zpn.firebaseio.com/cohorts/' + user.id.toString() + '/ranked_cohorts', $scope, 'users', []);

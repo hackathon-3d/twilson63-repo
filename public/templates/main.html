@@ -1,7 +1,7 @@
 <div class="navbar navbar-inverse navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
-      <a href="/" class="brand">Zombies | Pirates | Ninjas</a>
+      <a href="/" class="brand">Zombies | Pirates | Ninjas | Robots</a>
     </div>
   </div>
 </div>
@@ -10,6 +10,7 @@
   <img src="/img/zombie.png" style="height:80px;" />
   <img src="/img/pirate.png" style="height:80px;" />
   <img src="/img/ninja.png" style="height:80px;" />
+  <img src="/img/robot.png" style="height:80px;" />
   </center>
   <h3>Welcome, click on the github button to register to get your ranking!</h3>
   <center style="margin-top: 20px;margin-bottom:20px;">
@@ -20,30 +21,37 @@
   </center>
   <h4>Signup from github to get your ZPN rank.</h4>
 </div>
-<div class="container" ng-show="page == 'checkin'">
-  <button class="btn btn-large pull-right" ng-click="checkin()">
+<div class="container" ng-show="page == 'rank'">
+  <button class="btn btn-large pull-right" ng-click="grid()">
     <i class="icon-check"></i>
-    Check In
+    Grid
   </button>
   <h3>ZPN Rank</h3>
   <div class="row">
-    <h1 class="pull-right">10</h1>
+    <h1 class="pull-right">{{zombie || '?'}}</h1>
     <img src="/img/zombie.png" style="height:80px;" />
   </div>
   <div class="row">
-    <h1 class="pull-right">10</h1>
+    <h1 class="pull-right">{{pirate || '?'}}</h1>
     <img src="/img/pirate.png" style="height:80px;" />
   </div>
   <div class="row">
-    <h1 class="pull-right">10</h1>
+    <h1 class="pull-right">{{ninja || '?'}}</h1>
     <img src="/img/ninja.png" style="height:80px;" />
   </div>
+  <div class="row">
+    <h1 class="pull-right">{{robot || '?'}}</h1>
+    <img src="/img/robot.png" style="height:80px;" />
+  </div>
   <center style="margin-top:10px;">
-  <em style="font-size: 1.2em;">"Super BrainEating Swashbuckler BlackBelt"</em>
+  <em style="font-size: 1.2em;">"Click Check-In to Calculate..."</em>
   </center>
 </div>
 <div class="container" ng-show="page == 'main'">
-  <div style="padding: 40px;">
-    Main
-  </div>
+  <button class="btn btn-large pull-right" ng-click="rank()">
+    <i class="icon-user"></i>
+    Rank
+  </button>
+  <img src="/img/grid.png" />
+
 </div>

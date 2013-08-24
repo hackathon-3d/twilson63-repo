@@ -1,0 +1,102 @@
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a href="/" class="brand" style="font-size: 1.1em;">Zombies | Pirates | Ninjas | Robots</a>
+    </div>
+  </div>
+</div>
+<div class="container" ng-show="page == 'signup'">
+  <center>
+  <img src="img/zombie.png" style="height:80px;" />
+  <img src="img/pirate.png" style="height:80px;" />
+  <img src="img/ninja.png" style="height:80px;" />
+  <img src="img/robot.png" style="height:80px;" />
+  </center>
+  <h3>Welcome</h3>
+  <center style="margin-top: 20px;margin-bottom:20px;">
+  <input type="text" ng-model="user"></input>
+  <button class="btn btn-large" ng-click="login()">
+    <i class="icon-github"></i>
+    Github
+  </button>
+  </center>
+  <h4>Signup from github to get your ZPN rank.</h4>
+</div>
+<div class="container" ng-show="page == 'rank'">
+  <button class="btn btn-large pull-right" ng-click="grid()">
+    <i class="icon-check"></i>
+    Grid
+  </button>
+  <h3>ZPN Rank</h3>
+  <table class="table">
+    <tr>
+      <th>Username</th>
+      <th><img src="img/zombie.png" style="height:40px;" /></th>
+      <th><img src="img/pirate.png" style="height:40px;" /></th>
+      <th><img src="img/ninja.png" style="height:40px;" /></th>
+      <th><img src="img/robot.png" style="height:40px;" /></th>
+    </tr>
+    <tr ng-repeat="i in cohort">
+      <td>
+        <button ng-click="getProfile(i.id)">
+          <i class="icon-github"></i>
+        </button>
+        {{i.user_id}}
+      </td>
+      <td>{{i.zombie_rank}}</td>
+      <td>{{i.pirate_rank}}</td>
+      <td>{{i.ninja_ank}}</td>
+      <td>{{i.robot_rank}}</td>
+    </tr>
+    
+  </table>
+</div>
+<div class="container" ng-show="page == 'main'">
+  <select style="width: 150px;" ng-model="query">
+    <option>All</option>
+    <option>JavaScript</option>
+    <option>Java</option>
+    <option>Ruby</option>
+    <option>Python</option>
+  </select>
+  <button class="btn btn-large pull-right" ng-click="rank()">
+    <i class="icon-user"></i>
+    Rank
+  </button>
+  <img src="img/grid.png"></img>
+  <zpn-point ng-repeat="i in cohort" xtop="{{i.xtop}}" xleft="{{i.xleft}}"></zpn-point>
+</div>
+<div class="container" ng-show="page == 'profile'">
+  <img class="pull-right" src="{{profile.avatar_url}}" />
+  <h3>{{profile.login}}</h3>
+  <table class="table">
+    <tr>
+      <th>Name</th>
+      <td>{{profile.displayName}}</td>
+    </tr>
+    <tr>
+      <th>Company</th>
+      <td>{{profile.company}}</td>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <td>{{profile.location}}</td>
+    </tr>
+    <tr>
+      <th>Followers</th>
+      <td>{{profile.followers}}</td>
+    </tr>
+    <tr>
+      <th>Public Repos</th>
+      <td>{{profile.public_repos}}</td>
+    </tr>
+  </table>
+  <button class='btn btn-large' ng-click="page = 'main'">
+    <i class="icon-back"></i>
+    Back
+  </button>
+  <button class='btn btn-large pull-right' ng-click="sendEmail()">
+    <i class="icon-envelope-alt"></i>
+    Email
+  </button>
+</div>

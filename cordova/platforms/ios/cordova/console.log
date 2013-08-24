@@ -1,0 +1,346 @@
+2013-08-24 05:26:21.502 HelloCordova[21438:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:26:21.947 HelloCordova[21438:c07] Resetting plugins due to page load.
+2013-08-24 05:26:22.115 HelloCordova[21438:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/21011D6B-C1BA-4986-8E15-49974EB521FE/HelloCordova.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 05:28:19.938 HelloCordova[21654:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:28:19.990 HelloCordova[21654:c07] Resetting plugins due to page load.
+2013-08-24 05:28:20.157 HelloCordova[21654:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/21011D6B-C1BA-4986-8E15-49974EB521FE/HelloCordova.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 05:32:53.047 ZombiesPiratesNinjas[22094:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:32:53.374 ZombiesPiratesNinjas[22094:c07] Resetting plugins due to page load.
+2013-08-24 05:32:53.452 ZombiesPiratesNinjas[22094:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0EB7DEC0-710F-44A6-8FD5-6AB1999B73EB/ZombiesPiratesNinjas.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 05:36:40.518 ZombiesPiratesNinjas[22334:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:36:40.602 ZombiesPiratesNinjas[22334:c07] Resetting plugins due to page load.
+2013-08-24 05:36:40.743 ZombiesPiratesNinjas[22334:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/617CB1CC-8F26-496B-8165-1F54EB6A94EC/ZombiesPiratesNinjas.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 05:38:55.110 ZombiesPiratesNinjas[22543:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:38:55.156 ZombiesPiratesNinjas[22543:c07] Resetting plugins due to page load.
+2013-08-24 05:38:55.243 ZombiesPiratesNinjas[22543:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/617CB1CC-8F26-496B-8165-1F54EB6A94EC/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 05:39:45.430 ZombiesPiratesNinjas[22717:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:39:45.478 ZombiesPiratesNinjas[22717:c07] Resetting plugins due to page load.
+2013-08-24 05:39:45.581 ZombiesPiratesNinjas[22717:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/617CB1CC-8F26-496B-8165-1F54EB6A94EC/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 05:44:22.694 ZombiesPiratesNinjas[22951:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:44:22.742 ZombiesPiratesNinjas[22951:c07] Resetting plugins due to page load.
+2013-08-24 05:44:22.924 ZombiesPiratesNinjas[22951:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/617CB1CC-8F26-496B-8165-1F54EB6A94EC/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 05:45:54.350 ZombiesPiratesNinjas[23128:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:45:54.387 ZombiesPiratesNinjas[23128:c07] Resetting plugins due to page load.
+2013-08-24 05:45:54.520 ZombiesPiratesNinjas[23128:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/617CB1CC-8F26-496B-8165-1F54EB6A94EC/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 05:51:08.680 ZombiesPiratesNinjas[23630:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:51:08.711 ZombiesPiratesNinjas[23630:c07] Resetting plugins due to page load.
+2013-08-24 05:51:08.819 ZombiesPiratesNinjas[23630:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/617CB1CC-8F26-496B-8165-1F54EB6A94EC/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 05:53:08.008 ZombiesPiratesNinjas[23630:c07] Unbalanced calls to begin/end appearance transitions for <_UIFallbackPresentationViewController: 0xa847870>.
+2013-08-24 05:55:29.123 ZombiesPiratesNinjas[24113:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 05:55:29.220 ZombiesPiratesNinjas[24113:c07] Resetting plugins due to page load.
+2013-08-24 05:55:29.375 ZombiesPiratesNinjas[24113:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/9897F65A-25F2-447E-8410-87A330209A99/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 05:55:35.759 ZombiesPiratesNinjas[24113:c07] Resetting plugins due to page load.
+2013-08-24 05:55:36.599 ZombiesPiratesNinjas[24113:c07] Finished load of: https://github.com/login?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Df42b48e2c584ebdca82c%26redirect_uri%3Dhttps%253A%252F%252Fauth.firebase.com%252Fauth%252Fgithub%252Fcallback%252F%253Ffirebase%253Dzpn%2526internalRedirect%253Dfalse%26response_type%3Dcode%26scope%3D%252Cuser%253Aemail%26type%3Dweb_server
+2013-08-24 05:55:52.018 ZombiesPiratesNinjas[24113:c07] Resetting plugins due to page load.
+2013-08-24 05:55:52.115 ZombiesPiratesNinjas[24113:c07] Finished load of: https://github.com/session
+2013-08-24 05:56:00.552 ZombiesPiratesNinjas[24113:c07] Resetting plugins due to page load.
+2013-08-24 05:56:01.815 ZombiesPiratesNinjas[24113:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=4ff6ee7a425ca4a1153d&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:06:09.176 ZombiesPiratesNinjas[24605:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:06:09.251 ZombiesPiratesNinjas[24605:c07] Resetting plugins due to page load.
+2013-08-24 06:06:09.427 ZombiesPiratesNinjas[24605:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/9897F65A-25F2-447E-8410-87A330209A99/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:07:17.498 ZombiesPiratesNinjas[24605:c07] Resetting plugins due to page load.
+2013-08-24 06:07:18.944 ZombiesPiratesNinjas[24605:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=67ba25b463de4358288a&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:10:23.498 ZombiesPiratesNinjas[25048:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:10:23.553 ZombiesPiratesNinjas[25048:c07] Resetting plugins due to page load.
+2013-08-24 06:10:23.686 ZombiesPiratesNinjas[25048:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/9897F65A-25F2-447E-8410-87A330209A99/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:10:25.881 ZombiesPiratesNinjas[25048:c07] Resetting plugins due to page load.
+2013-08-24 06:10:27.031 ZombiesPiratesNinjas[25048:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=7490f07ff739cd1b976c&firebase=zpn&internalRedirect=false
+2013-08-24 06:14:25.112 ZombiesPiratesNinjas[25593:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:14:25.172 ZombiesPiratesNinjas[25593:c07] Resetting plugins due to page load.
+2013-08-24 06:14:25.306 ZombiesPiratesNinjas[25593:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/A99335FA-51F9-44C4-9D90-A771417D946A/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:14:50.222 ZombiesPiratesNinjas[25593:c07] Resetting plugins due to page load.
+2013-08-24 06:14:51.085 ZombiesPiratesNinjas[25593:c07] Finished load of: https://github.com/login?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Df42b48e2c584ebdca82c%26redirect_uri%3Dhttps%253A%252F%252Fauth.firebase.com%252Fauth%252Fgithub%252Fcallback%252F%253Ffirebase%253Dzpn%2526internalRedirect%253Dfalse%26response_type%3Dcode%26scope%3D%252Cuser%253Aemail%26type%3Dweb_server
+2013-08-24 06:15:01.951 ZombiesPiratesNinjas[25593:c07] Resetting plugins due to page load.
+2013-08-24 06:15:03.021 ZombiesPiratesNinjas[25593:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=a7c584fc895ff47e84a3&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:33:26.166 ZombiesPiratesNinjas[27315:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:33:26.225 ZombiesPiratesNinjas[27315:c07] Resetting plugins due to page load.
+2013-08-24 06:33:26.441 ZombiesPiratesNinjas[27315:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:33:28.564 ZombiesPiratesNinjas[27315:c07] Resetting plugins due to page load.
+2013-08-24 06:33:29.684 ZombiesPiratesNinjas[27315:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=928fcc41abb4fe0713b6&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:36:58.828 ZombiesPiratesNinjas[27755:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:36:58.883 ZombiesPiratesNinjas[27755:c07] Resetting plugins due to page load.
+2013-08-24 06:36:59.157 ZombiesPiratesNinjas[27755:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:38:59.666 ZombiesPiratesNinjas[28199:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:38:59.716 ZombiesPiratesNinjas[28199:c07] Resetting plugins due to page load.
+2013-08-24 06:38:59.959 ZombiesPiratesNinjas[28199:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:39:10.440 ZombiesPiratesNinjas[28199:c07] Resetting plugins due to page load.
+2013-08-24 06:39:11.720 ZombiesPiratesNinjas[28199:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=743df6937bc167056807&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:41:02.653 ZombiesPiratesNinjas[28637:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:41:02.700 ZombiesPiratesNinjas[28637:c07] Resetting plugins due to page load.
+2013-08-24 06:41:02.918 ZombiesPiratesNinjas[28637:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:42:31.990 ZombiesPiratesNinjas[29076:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:42:32.045 ZombiesPiratesNinjas[29076:c07] Resetting plugins due to page load.
+2013-08-24 06:42:32.320 ZombiesPiratesNinjas[29076:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:42:35.642 ZombiesPiratesNinjas[29076:c07] Resetting plugins due to page load.
+2013-08-24 06:42:36.860 ZombiesPiratesNinjas[29076:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=978813756221bf0ae859&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:44:06.828 ZombiesPiratesNinjas[29513:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:44:06.885 ZombiesPiratesNinjas[29513:c07] Resetting plugins due to page load.
+2013-08-24 06:44:07.175 ZombiesPiratesNinjas[29513:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:44:53.332 ZombiesPiratesNinjas[29948:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:44:53.381 ZombiesPiratesNinjas[29948:c07] Resetting plugins due to page load.
+2013-08-24 06:44:53.604 ZombiesPiratesNinjas[29948:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 06:44:56.115 ZombiesPiratesNinjas[29948:c07] Resetting plugins due to page load.
+2013-08-24 06:44:57.259 ZombiesPiratesNinjas[29948:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=8c62adc2ccc69f2fab3e&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:46:01.193 ZombiesPiratesNinjas[30385:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:46:01.249 ZombiesPiratesNinjas[30385:c07] Resetting plugins due to page load.
+2013-08-24 06:46:01.569 ZombiesPiratesNinjas[30385:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:46:45.865 ZombiesPiratesNinjas[30820:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:46:45.923 ZombiesPiratesNinjas[30820:c07] Resetting plugins due to page load.
+2013-08-24 06:46:46.130 ZombiesPiratesNinjas[30820:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:48:19.322 ZombiesPiratesNinjas[31255:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:48:19.375 ZombiesPiratesNinjas[31255:c07] Resetting plugins due to page load.
+2013-08-24 06:48:19.588 ZombiesPiratesNinjas[31255:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:50:18.320 ZombiesPiratesNinjas[31693:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:50:18.384 ZombiesPiratesNinjas[31693:c07] Resetting plugins due to page load.
+2013-08-24 06:50:18.699 ZombiesPiratesNinjas[31693:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/0457C013-3266-453E-ABA0-B1D14375491D/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 06:52:03.580 ZombiesPiratesNinjas[32160:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 06:52:03.659 ZombiesPiratesNinjas[32160:c07] Resetting plugins due to page load.
+2013-08-24 06:52:03.892 ZombiesPiratesNinjas[32160:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:20:12.232 ZombiesPiratesNinjas[35315:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:20:12.277 ZombiesPiratesNinjas[35315:c07] Resetting plugins due to page load.
+2013-08-24 07:20:12.594 ZombiesPiratesNinjas[35315:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:20:16.147 ZombiesPiratesNinjas[35315:c07] Resetting plugins due to page load.
+2013-08-24 07:20:16.941 ZombiesPiratesNinjas[35315:c07] Finished load of: https://github.com/login?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Df42b48e2c584ebdca82c%26redirect_uri%3Dhttps%253A%252F%252Fauth.firebase.com%252Fauth%252Fgithub%252Fcallback%252F%253Ffirebase%253Dzpn%2526internalRedirect%253Dfalse%26response_type%3Dcode%26scope%3D%252Cuser%253Aemail%26type%3Dweb_server
+2013-08-24 07:20:28.072 ZombiesPiratesNinjas[35315:c07] Resetting plugins due to page load.
+2013-08-24 07:20:29.264 ZombiesPiratesNinjas[35315:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=b4c9624cff6faa5c2e97&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:21:21.605 ZombiesPiratesNinjas[35751:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:21:21.642 ZombiesPiratesNinjas[35751:c07] Resetting plugins due to page load.
+2013-08-24 07:21:21.829 ZombiesPiratesNinjas[35751:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:21:24.636 ZombiesPiratesNinjas[35751:c07] Resetting plugins due to page load.
+2013-08-24 07:21:25.936 ZombiesPiratesNinjas[35751:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=1542c36d46f9b7f8260d&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:29:02.770 ZombiesPiratesNinjas[36197:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:29:02.814 ZombiesPiratesNinjas[36197:c07] Resetting plugins due to page load.
+2013-08-24 07:29:03.104 ZombiesPiratesNinjas[36197:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:29:05.918 ZombiesPiratesNinjas[36197:c07] Resetting plugins due to page load.
+2013-08-24 07:29:07.104 ZombiesPiratesNinjas[36197:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=018cf461f4438297388f&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:30:21.866 ZombiesPiratesNinjas[37394:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:30:21.903 ZombiesPiratesNinjas[37394:c07] Resetting plugins due to page load.
+2013-08-24 07:30:22.101 ZombiesPiratesNinjas[37394:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:30:24.428 ZombiesPiratesNinjas[37394:c07] Resetting plugins due to page load.
+2013-08-24 07:30:25.541 ZombiesPiratesNinjas[37394:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=eb47637e9b9f58b6ab29&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:31:09.899 ZombiesPiratesNinjas[37827:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:31:09.950 ZombiesPiratesNinjas[37827:c07] Resetting plugins due to page load.
+2013-08-24 07:31:10.164 ZombiesPiratesNinjas[37827:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:32:13.890 ZombiesPiratesNinjas[38235:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:32:13.982 ZombiesPiratesNinjas[38235:c07] Resetting plugins due to page load.
+2013-08-24 07:32:14.261 ZombiesPiratesNinjas[38235:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:32:53.004 ZombiesPiratesNinjas[38667:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:32:53.067 ZombiesPiratesNinjas[38667:c07] Resetting plugins due to page load.
+2013-08-24 07:32:53.267 ZombiesPiratesNinjas[38667:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D848684E-0CFC-4389-98D9-6E10FED5A484/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:33:24.768 ZombiesPiratesNinjas[39100:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:33:24.845 ZombiesPiratesNinjas[39100:c07] Resetting plugins due to page load.
+2013-08-24 07:33:25.039 ZombiesPiratesNinjas[39100:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/C039F313-8B26-4B5B-94B7-235BDE171484/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:34:05.442 ZombiesPiratesNinjas[39556:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:34:05.622 ZombiesPiratesNinjas[39556:c07] Resetting plugins due to page load.
+2013-08-24 07:34:05.902 ZombiesPiratesNinjas[39556:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:35:18.395 ZombiesPiratesNinjas[39963:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:35:18.441 ZombiesPiratesNinjas[39963:c07] Resetting plugins due to page load.
+2013-08-24 07:35:18.655 ZombiesPiratesNinjas[39963:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 07:37:10.823 ZombiesPiratesNinjas[40370:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:37:10.915 ZombiesPiratesNinjas[40370:c07] Resetting plugins due to page load.
+2013-08-24 07:37:11.098 ZombiesPiratesNinjas[40370:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:37:51.200 ZombiesPiratesNinjas[40800:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:37:51.246 ZombiesPiratesNinjas[40800:c07] Resetting plugins due to page load.
+2013-08-24 07:37:51.412 ZombiesPiratesNinjas[40800:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 07:38:11.711 ZombiesPiratesNinjas[41203:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:38:11.799 ZombiesPiratesNinjas[41203:c07] Resetting plugins due to page load.
+2013-08-24 07:38:11.980 ZombiesPiratesNinjas[41203:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:38:22.654 ZombiesPiratesNinjas[41203:c07] Resetting plugins due to page load.
+2013-08-24 07:38:23.566 ZombiesPiratesNinjas[41203:c07] Finished load of: https://github.com/login?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Df42b48e2c584ebdca82c%26redirect_uri%3Dhttps%253A%252F%252Fauth.firebase.com%252Fauth%252Fgithub%252Fcallback%252F%253Ffirebase%253Dzpn%2526internalRedirect%253Dfalse%26response_type%3Dcode%26scope%3D%252Cuser%253Aemail%26type%3Dweb_server
+2013-08-24 07:38:32.274 ZombiesPiratesNinjas[41203:c07] Resetting plugins due to page load.
+2013-08-24 07:38:33.235 ZombiesPiratesNinjas[41203:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=b55499f7b96583e02941&firebase=zpn&internalRedirect=false
+2013-08-24 07:39:29.529 ZombiesPiratesNinjas[41609:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:39:29.623 ZombiesPiratesNinjas[41609:c07] Resetting plugins due to page load.
+2013-08-24 07:39:29.817 ZombiesPiratesNinjas[41609:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:39:33.560 ZombiesPiratesNinjas[41609:c07] Resetting plugins due to page load.
+2013-08-24 07:39:34.649 ZombiesPiratesNinjas[41609:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=f7dc0fc9563f8b2678fe&firebase=zpn&internalRedirect=false
+2013-08-24 07:41:52.734 ZombiesPiratesNinjas[42016:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:41:52.828 ZombiesPiratesNinjas[42016:c07] Resetting plugins due to page load.
+2013-08-24 07:41:53.008 ZombiesPiratesNinjas[42016:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:42:03.010 ZombiesPiratesNinjas[42016:c07] Resetting plugins due to page load.
+2013-08-24 07:42:04.125 ZombiesPiratesNinjas[42016:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=2b594c36c3d89f8eb3d7&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:46:43.952 ZombiesPiratesNinjas[43003:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:46:44.004 ZombiesPiratesNinjas[43003:c07] Resetting plugins due to page load.
+2013-08-24 07:46:44.266 ZombiesPiratesNinjas[43003:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:46:46.200 ZombiesPiratesNinjas[43003:c07] Resetting plugins due to page load.
+2013-08-24 07:46:47.369 ZombiesPiratesNinjas[43003:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=1bda0afe711e723f2742&firebase=zpn&internalRedirect=false
+2013-08-24 07:47:32.821 ZombiesPiratesNinjas[43413:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:47:32.870 ZombiesPiratesNinjas[43413:c07] Resetting plugins due to page load.
+2013-08-24 07:47:33.087 ZombiesPiratesNinjas[43413:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:47:37.770 ZombiesPiratesNinjas[43413:c07] Resetting plugins due to page load.
+2013-08-24 07:47:39.097 ZombiesPiratesNinjas[43413:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=02465d15298ad30dcedf&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:50:40.852 ZombiesPiratesNinjas[44231:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:50:40.910 ZombiesPiratesNinjas[44231:c07] Resetting plugins due to page load.
+2013-08-24 07:50:41.133 ZombiesPiratesNinjas[44231:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:52:13.047 ZombiesPiratesNinjas[44231:c07] Resetting plugins due to page load.
+2013-08-24 07:52:14.358 ZombiesPiratesNinjas[44231:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=1df4b216c9a4858b2429&firebase=zpn&internalRedirect=false
+2013-08-24 07:53:44.610 ZombiesPiratesNinjas[44650:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:53:44.662 ZombiesPiratesNinjas[44650:c07] Resetting plugins due to page load.
+2013-08-24 07:53:44.846 ZombiesPiratesNinjas[44650:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:55:36.089 ZombiesPiratesNinjas[45095:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:55:36.159 ZombiesPiratesNinjas[45095:c07] Resetting plugins due to page load.
+2013-08-24 07:55:36.365 ZombiesPiratesNinjas[45095:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:57:03.900 ZombiesPiratesNinjas[45505:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:57:03.963 ZombiesPiratesNinjas[45505:c07] Resetting plugins due to page load.
+2013-08-24 07:57:04.262 ZombiesPiratesNinjas[45505:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 07:58:19.603 ZombiesPiratesNinjas[45942:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:58:19.652 ZombiesPiratesNinjas[45942:c07] Resetting plugins due to page load.
+2013-08-24 07:58:19.921 ZombiesPiratesNinjas[45942:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:59:07.879 ZombiesPiratesNinjas[46352:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 07:59:07.929 ZombiesPiratesNinjas[46352:c07] Resetting plugins due to page load.
+2013-08-24 07:59:08.152 ZombiesPiratesNinjas[46352:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 07:59:12.028 ZombiesPiratesNinjas[46352:c07] Resetting plugins due to page load.
+2013-08-24 07:59:13.145 ZombiesPiratesNinjas[46352:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=d4d80cf51ada263e5498&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 08:00:22.453 ZombiesPiratesNinjas[46791:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:00:22.500 ZombiesPiratesNinjas[46791:c07] Resetting plugins due to page load.
+2013-08-24 08:00:22.738 ZombiesPiratesNinjas[46791:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:00:26.970 ZombiesPiratesNinjas[46791:c07] Resetting plugins due to page load.
+2013-08-24 08:00:28.161 ZombiesPiratesNinjas[46791:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=4b6565760c7b237eacce&firebase=zpn&internalRedirect=false
+2013-08-24 08:01:09.490 ZombiesPiratesNinjas[47199:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:01:09.603 ZombiesPiratesNinjas[47199:c07] Resetting plugins due to page load.
+2013-08-24 08:01:09.863 ZombiesPiratesNinjas[47199:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/E4019060-8DEE-4E75-8C4C-64D31B0B5DC0/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 08:01:43.250 ZombiesPiratesNinjas[47633:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:01:43.387 ZombiesPiratesNinjas[47633:c07] Resetting plugins due to page load.
+2013-08-24 08:01:43.660 ZombiesPiratesNinjas[47633:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:02:37.159 ZombiesPiratesNinjas[48043:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:02:37.233 ZombiesPiratesNinjas[48043:c07] Resetting plugins due to page load.
+2013-08-24 08:02:37.468 ZombiesPiratesNinjas[48043:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:03:59.137 ZombiesPiratesNinjas[48043:2703] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2013-08-24 08:07:10.258 ZombiesPiratesNinjas[48486:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:07:10.294 ZombiesPiratesNinjas[48486:c07] Resetting plugins due to page load.
+2013-08-24 08:07:10.516 ZombiesPiratesNinjas[48486:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:08:01.389 ZombiesPiratesNinjas[48895:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:08:01.435 ZombiesPiratesNinjas[48895:c07] Resetting plugins due to page load.
+2013-08-24 08:08:01.680 ZombiesPiratesNinjas[48895:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:08:07.599 ZombiesPiratesNinjas[48895:c07] Resetting plugins due to page load.
+2013-08-24 08:08:08.368 ZombiesPiratesNinjas[48895:c07] Finished load of: https://github.com/login?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Df42b48e2c584ebdca82c%26redirect_uri%3Dhttps%253A%252F%252Fauth.firebase.com%252Fauth%252Fgithub%252Fcallback%252F%253Ffirebase%253Dzpn%2526internalRedirect%253Dfalse%26response_type%3Dcode%26scope%3D%252Cuser%253Aemail%26type%3Dweb_server
+2013-08-24 08:08:16.420 ZombiesPiratesNinjas[48895:c07] Resetting plugins due to page load.
+2013-08-24 08:08:17.485 ZombiesPiratesNinjas[48895:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=fd7cc6176a1696a775e7&firebase=zpn&internalRedirect=false
+2013-08-24 08:09:40.816 ZombiesPiratesNinjas[49306:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:09:40.921 ZombiesPiratesNinjas[49306:c07] Resetting plugins due to page load.
+2013-08-24 08:09:41.105 ZombiesPiratesNinjas[49306:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:09:47.829 ZombiesPiratesNinjas[49306:c07] Resetting plugins due to page load.
+2013-08-24 08:09:48.937 ZombiesPiratesNinjas[49306:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=0762494622715c76aa3b&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 08:16:44.007 ZombiesPiratesNinjas[49783:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:16:44.055 ZombiesPiratesNinjas[49783:c07] Resetting plugins due to page load.
+2013-08-24 08:16:44.527 ZombiesPiratesNinjas[49783:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:16:49.338 ZombiesPiratesNinjas[49783:c07] Resetting plugins due to page load.
+2013-08-24 08:16:50.341 ZombiesPiratesNinjas[49783:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=f0be2999a6dbd4556687&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 08:17:44.803 ZombiesPiratesNinjas[50220:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:17:44.860 ZombiesPiratesNinjas[50220:c07] Resetting plugins due to page load.
+2013-08-24 08:17:45.292 ZombiesPiratesNinjas[50220:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:17:46.756 ZombiesPiratesNinjas[50220:c07] Resetting plugins due to page load.
+2013-08-24 08:17:47.776 ZombiesPiratesNinjas[50220:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=e2b7b82f951d1d7ac5b6&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 08:25:34.244 ZombiesPiratesNinjas[50675:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 08:25:34.321 ZombiesPiratesNinjas[50675:c07] Resetting plugins due to page load.
+2013-08-24 08:25:34.621 ZombiesPiratesNinjas[50675:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 08:25:40.868 ZombiesPiratesNinjas[50675:c07] Resetting plugins due to page load.
+2013-08-24 08:25:42.011 ZombiesPiratesNinjas[50675:c07] Finished load of: https://auth.firebase.com/auth/github/callback/?code=a9dedb8ca584d77e6dca&firebase=zpn&internalRedirect=false
+Terminating in response to SpringBoard's termination.
+2013-08-24 10:08:33.942 ZombiesPiratesNinjas[58061:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:08:34.287 ZombiesPiratesNinjas[58061:c07] Resetting plugins due to page load.
+2013-08-24 10:08:34.459 ZombiesPiratesNinjas[58061:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:11:40.854 ZombiesPiratesNinjas[58515:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:11:40.914 ZombiesPiratesNinjas[58515:c07] Resetting plugins due to page load.
+2013-08-24 10:11:41.075 ZombiesPiratesNinjas[58515:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 10:12:23.109 ZombiesPiratesNinjas[58923:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:12:23.155 ZombiesPiratesNinjas[58923:c07] Resetting plugins due to page load.
+2013-08-24 10:12:23.261 ZombiesPiratesNinjas[58923:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 10:14:04.758 ZombiesPiratesNinjas[59334:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:14:04.801 ZombiesPiratesNinjas[59334:c07] Resetting plugins due to page load.
+2013-08-24 10:14:04.911 ZombiesPiratesNinjas[59334:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 10:15:25.236 ZombiesPiratesNinjas[59780:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:15:25.287 ZombiesPiratesNinjas[59780:c07] Resetting plugins due to page load.
+2013-08-24 10:15:25.426 ZombiesPiratesNinjas[59780:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 10:19:27.899 ZombiesPiratesNinjas[60965:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:19:27.942 ZombiesPiratesNinjas[60965:c07] Resetting plugins due to page load.
+2013-08-24 10:19:28.245 ZombiesPiratesNinjas[60965:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:20:46.723 ZombiesPiratesNinjas[61373:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:20:46.807 ZombiesPiratesNinjas[61373:c07] Resetting plugins due to page load.
+2013-08-24 10:20:46.949 ZombiesPiratesNinjas[61373:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:21:53.531 ZombiesPiratesNinjas[61780:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:21:53.625 ZombiesPiratesNinjas[61780:c07] Resetting plugins due to page load.
+2013-08-24 10:21:53.763 ZombiesPiratesNinjas[61780:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:22:57.412 ZombiesPiratesNinjas[62191:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:22:57.465 ZombiesPiratesNinjas[62191:c07] Resetting plugins due to page load.
+2013-08-24 10:22:57.625 ZombiesPiratesNinjas[62191:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:23:57.992 ZombiesPiratesNinjas[62598:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:23:58.091 ZombiesPiratesNinjas[62598:c07] Resetting plugins due to page load.
+2013-08-24 10:23:58.237 ZombiesPiratesNinjas[62598:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:25:02.295 ZombiesPiratesNinjas[63008:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:25:02.366 ZombiesPiratesNinjas[63008:c07] Resetting plugins due to page load.
+2013-08-24 10:25:02.600 ZombiesPiratesNinjas[63008:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:25:46.937 ZombiesPiratesNinjas[63415:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:25:46.971 ZombiesPiratesNinjas[63415:c07] Resetting plugins due to page load.
+2013-08-24 10:25:47.097 ZombiesPiratesNinjas[63415:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:26:32.425 ZombiesPiratesNinjas[63826:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:26:32.516 ZombiesPiratesNinjas[63826:c07] Resetting plugins due to page load.
+2013-08-24 10:26:32.644 ZombiesPiratesNinjas[63826:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:35:41.258 ZombiesPiratesNinjas[64289:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:35:41.300 ZombiesPiratesNinjas[64289:c07] Resetting plugins due to page load.
+2013-08-24 10:35:41.795 ZombiesPiratesNinjas[64289:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:36:30.850 ZombiesPiratesNinjas[64701:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:36:30.952 ZombiesPiratesNinjas[64701:c07] Resetting plugins due to page load.
+2013-08-24 10:36:31.403 ZombiesPiratesNinjas[64701:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 10:37:12.203 ZombiesPiratesNinjas[65107:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:37:12.295 ZombiesPiratesNinjas[65107:c07] Resetting plugins due to page load.
+2013-08-24 10:37:12.823 ZombiesPiratesNinjas[65107:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 10:40:03.483 ZombiesPiratesNinjas[65549:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:40:03.547 ZombiesPiratesNinjas[65549:c07] Resetting plugins due to page load.
+2013-08-24 10:40:04.216 ZombiesPiratesNinjas[65549:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2013-08-24 10:58:08.547 ZombiesPiratesNinjas[66049:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 10:58:08.602 ZombiesPiratesNinjas[66049:c07] Resetting plugins due to page load.
+2013-08-24 10:58:08.774 ZombiesPiratesNinjas[66049:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html
+2013-08-24 11:00:19.265 ZombiesPiratesNinjas[66468:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 11:00:19.312 ZombiesPiratesNinjas[66468:c07] Resetting plugins due to page load.
+2013-08-24 11:00:19.590 ZombiesPiratesNinjas[66468:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+Terminating in response to SpringBoard's termination.
+2013-08-24 11:04:48.903 ZombiesPiratesNinjas[66921:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 11:04:48.963 ZombiesPiratesNinjas[66921:c07] Resetting plugins due to page load.
+2013-08-24 11:04:49.247 ZombiesPiratesNinjas[66921:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 11:05:39.456 ZombiesPiratesNinjas[67327:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 11:05:39.500 ZombiesPiratesNinjas[67327:c07] Resetting plugins due to page load.
+2013-08-24 11:05:39.782 ZombiesPiratesNinjas[67327:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/
+2013-08-24 11:07:03.914 ZombiesPiratesNinjas[67733:c07] Multi-tasking -> Device: YES, App: YES
+2013-08-24 11:07:03.972 ZombiesPiratesNinjas[67733:c07] Resetting plugins due to page load.
+2013-08-24 11:07:04.182 ZombiesPiratesNinjas[67733:c07] Finished load of: file:///Users/twilson63/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/442EFECA-6A1F-4EDA-AF29-3A72306D482C/ZombiesPiratesNinjas.app/www/index.html#/

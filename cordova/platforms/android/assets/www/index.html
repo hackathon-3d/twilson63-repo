@@ -1,0 +1,27 @@
+<!doctype html>
+<html ng-app="App">
+  <head>
+    <meta charset="utf-8">
+    <title>Zombies|Pirates|Ninjas</title>
+    <!-- <meta name="viewport" content="width=device-width"> -->
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-responsive.css">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <style type="text/css" media="screen">
+      .point {
+        width:10px;
+        height:10px;
+        background:green;
+        position:absolute;
+        border-radius: 4px;
+      }
+    </style>
+  </head>
+  <body>
+    <div ng-view></div>
+    <script src="https://cdn.firebase.com/v0/firebase.js"></script>
+    <script src='https://cdn.firebase.com/v0/firebase-simple-login.js'></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

@@ -16430,76 +16430,46 @@ angular.module("firebase").factory("angularFireAuth", [
       }
     };
   });;angular.module('App')
-  .controller('MainCtrl', function($scope, angularFire, angularFireAuth, $http) {
+  .controller('MainCtrl', function($scope, angularFire, $http) {
     $scope.page = 'signup';
+
     navigator.geolocation.getCurrentPosition(function(position) {
       $scope.$apply(function() {
-        $scope.position = position;
+        $scope.checkin = {
+           lat: position.coords.latitude,
+           lng: position.coords.longitude,
+           stmp: new Date()
+         };
       });
     });
-    angularFireAuth.initialize('https://zpn.firebaseio.com', {scope: $scope, name: "user"});
-    $scope.login = function(source) {
-      angularFireAuth.login(source);
-    };
-    $scope.$on("angularFireAuth:login", function(evt, user) {
-      alert('foo');
-      //$scope.page = 'main';
-      //console.debug("login event", user)
-    });
-    // var ref = new Firebase('https://zpn.firebaseio.com');
-    // window.auth = new FirebaseSimpleLogin(ref, function(err, user) { 
-    //   $scope.page = 'main';
-    //   alert(JSON.stringify(user));
-    // });
-    // angularFire('https://zpn.firebaseio.com/users', $scope, 'users', {})
-    //   .then(function() {
-    //     $scope.page = 'signup';
-    //   });
-    // 
 
-       // $scope.$apply(function() {
-       //   $scope.user = user;
-       //   $scope.checkin = {
-       //      lat: position.coords.latitude,
-       //      lng: position.coords.longitude,
-       //      stmp: new Date()
-       //    };
-       // 
-       // angularFire('https://zpn.firebaseio.com/checkins/' + user.id, $scope, 'checkin', {})
-       //  .then(function() {
-       //    angularFire('https://zpn.firebaseio.com/users/' + user.id, $scope, 'user', {})
-       //      .then(function() {
-       //      });
-       //  });
-       // });
-     //}
-   //});
+   $scope.login = function(source) {
+     $http.post('http://zpn.herokuapp.com/api/checkin', { user: $scope.user, checkin: $scope.checkin })
+       .success(function(user) {
+         $scope.page = 'rank';
+         angularFire('https://zpn.firebaseio.com/cohorts/' + user.id.toString() + '/ranked_cohorts', $scope, 'users', []);
+       })
+       .error(function() {
+         alert('Invalid User!');
+       });
+   };
 
-   // 
-   // $scope.rank = function() {
-   //   $scope.page = 'rank';
-   // };
+   $scope.rank = function() {
+     $scope.page = 'rank';
+   };
 
-   // $scope.grid = function() {
-   //   $scope.page = 'main';
-   // };
+   $scope.grid = function() {
+     $scope.page = 'main';
+   };
 
-   // $scope.cohort = [
-   //  {id: '21292', xtop: '145px', xleft: '150px'},
-   //  {id: '21292', xtop: '195px', xleft: '220px'},
-   //  {id: '21292', xtop: '295px', xleft: '150px'},
-   //  {id: '21292', xtop: '215px', xleft: '70px'},
-   //  {id: '21292', xtop: '203px', xleft: '150px'}
-   // ];
-   // 
-   // $scope.who = function() {
-   //   // set user
-   //   $scope.page = "rank";
-   // };
-   // $scope.query = 'All';
-   // 
-   // $scope.getProfile = function(id) {
-   //   $scope.profile = $scope.users[id];
-   //   $scope.page = 'profile';
-   // };
+   $scope.who = function() {
+     // set user
+     $scope.page = "rank";
+   };
+   $scope.query = 'All';
+
+   $scope.getProfile = function(id) {
+     $scope.profile = $scope.users[id];
+     $scope.page = 'profile';
+   };
   });

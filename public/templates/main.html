@@ -30,7 +30,7 @@
   <h3>ZPN Rank</h3>
   <table class="table">
     <tr>
-      <th>Username</th>
+      <th>Id</th>
       <th><img src="img/zombie.png" style="height:40px;" /></th>
       <th><img src="img/pirate.png" style="height:40px;" /></th>
       <th><img src="img/ninja.png" style="height:40px;" /></th>
@@ -38,7 +38,7 @@
     </tr>
     <tr ng-repeat="i in users">
       <td>
-        <button ng-click="getProfile(i.id)">
+        <button ng-click="getProfile(i.user_id)">
           <i class="icon-github"></i>
         </button>
         {{i.user_id}}

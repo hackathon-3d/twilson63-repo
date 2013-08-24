@@ -16,7 +16,7 @@ angular.module('App')
      $http.post('http://zpn.herokuapp.com/api/checkin', { user: $scope.user, checkin: $scope.checkin })
        .success(function(user) {
          $scope.page = 'rank';
-         angularFire('https://zpn.firebaseio.com/cohorts/' + user.id + '/ranked-cohorts', $scope, 'users', {});
+         angularFire('https://zpn.firebaseio.com/cohorts/' + user.id.toString() + '/ranked_cohorts', $scope, 'users', []);
        })
        .error(function() {
          alert('Invalid User!');

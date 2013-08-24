@@ -16447,7 +16447,7 @@ angular.module("firebase").factory("angularFireAuth", [
      $http.post('http://zpn.herokuapp.com/api/checkin', { user: $scope.user, checkin: $scope.checkin })
        .success(function(user) {
          $scope.page = 'rank';
-         angularFire('https://zpn.firebaseio.com/cohorts/' + user.id + '/ranked-cohorts', $scope, 'users', {});
+         angularFire('https://zpn.firebaseio.com/cohorts/' + user.id.toString() + '/ranked_cohorts', $scope, 'users', []);
        })
        .error(function() {
          alert('Invalid User!');
@@ -16462,17 +16462,8 @@ angular.module("firebase").factory("angularFireAuth", [
      $scope.page = 'main';
    };
 
-   $scope.cohort = [
-    {id: '21292', xtop: '145px', xleft: '150px'},
-    {id: '21292', xtop: '195px', xleft: '220px'},
-    {id: '21292', xtop: '295px', xleft: '150px'},
-    {id: '21292', xtop: '215px', xleft: '70px'},
-    {id: '21292', xtop: '203px', xleft: '150px'}
-   ];
-
    $scope.who = function() {
      // set user
-     alert('foo');
      $scope.page = "rank";
    };
    $scope.query = 'All';

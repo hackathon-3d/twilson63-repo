@@ -12,6 +12,7 @@ module.exports = function(grunt) {
       },
       dist: {
         src: [
+          'app/components/fastclick/lib/fastclick.js',
           'app/components/angular/angular.js',
           'app/components/angular-fire/angularFire.js',
           'app/app.js', 

@@ -31,8 +31,11 @@ module.exports = function(grunt) {
     },
     
     watch: {
-      files: ['app/**/*.js', 'test/**/*.js'],
+      files: ['app/app.js', 
+      'app/directives/**/*.js',
+      'app/controllers/**/*.js'],
       tasks: ['jshint', 'concat']
+      
     },
     karma: {
       options: {

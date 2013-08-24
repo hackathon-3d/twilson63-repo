@@ -15679,6 +15679,17 @@ angular.module("firebase").factory("angularFireAuth", [
       });
   });
 ;angular.module('App')
+  .directive('zpnPoint', function() {
+    return {
+      restrict: 'E',
+      replace: true,
+      template: '<div class="point" style="top: {{xtop}};left: {{xleft}};"></div>',
+      scope: {
+        'xtop': '@xtop',
+        'xleft': '@xleft'
+      }
+    };
+  });;angular.module('App')
   .controller('MainCtrl', function($scope, angularFire) {
     $scope.page = 'signup';
     var ref = new Firebase('https://zpn.firebaseio.com');
@@ -15694,7 +15705,6 @@ angular.module("firebase").factory("angularFireAuth", [
               lng: position.coords.longitude,
               stmp: new Date()
             };
-           console.log($scope.checkin);
            $scope.page = 'main';
          });
        }, function(err) {
@@ -15715,7 +15725,15 @@ angular.module("firebase").factory("angularFireAuth", [
    $scope.grid = function() {
      $scope.page = 'main';
    };
-
+   
+   $scope.cohort = [
+    {xtop: '150px', xleft: '185px'},
+    {xtop: '245px', xleft: '185px'},
+    {xtop: '340px', xleft: '185px'},
+    {xtop: '245px', xleft: '85px'},
+    {xtop: '245px', xleft: '285px'}
+    
+   ];
    // $scope.checkin = function() {
    //   navigator.geolocation.getCurrentPosition(function(position) {
    //     var userId = localStorage.getItem('user');       localStorage.setItem('user', user.id);
@@ -15726,41 +15744,4 @@ angular.module("firebase").factory("angularFireAuth", [
    //   });
    // };
 
-  });;angular.module('App')
-  .controller('SignupCtrl', function($scope, angularFire) {
-    var ref = new Firebase('https://zpn.firebaseio.com');
-    window.auth = new FirebaseSimpleLogin(ref, function(err, user) { 
-     if (err) { console.log(err); }
-     if (user) {
-       angularFire('https://zpn.firebaseio.com/users/' + user.id, $scope, 'user', user);
-       localStorage.setItem('user', user.id);
-     }
-   });
-   // onSuccess Callback
-   //   This method accepts a `Position` object, which contains
-   //   the current GPS coordinates
-   //
-   var onSuccess = function(position) {
-       alert('Latitude: '          + position.coords.latitude          + '\n' +
-             'Longitude: '         + position.coords.longitude         + '\n' +
-             'Altitude: '          + position.coords.altitude          + '\n' +
-             'Accuracy: '          + position.coords.accuracy          + '\n' +
-             'Altitude Accuracy: ' + position.coords.altitudeAccuracy  + '\n' +
-             'Heading: '           + position.coords.heading           + '\n' +
-             'Speed: '             + position.coords.speed             + '\n' +
-             'Timestamp: '         + position.timestamp                + '\n');
-   };
-
-   // onError Callback receives a PositionError object
-   //
-   function onError(error) {
-       alert('code: '    + error.code    + '\n' +
-             'message: ' + error.message + '\n');
-   }
-
-   navigator.geolocation.getCurrentPosition(onSuccess, onError);
-   
-   $scope.login = function(source) {
-     auth.login(source);
-   };
   });

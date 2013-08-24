@@ -18,6 +18,9 @@
     "url": "https://github.com/hackathon-3d/twilson63-repo/issues"
   },
   "dependencies": {
+    "express": "~3.3.5"
+  },
+  "dev-dependencies": {
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-jshint": "~0.6.3",
     "grunt": "~0.4.1",
@@ -33,7 +36,6 @@
     "karma-coffee-preprocessor": "~0.1.0",
     "karma-phantomjs-launcher": "~0.1.0",
     "karma": "~0.10.2",
-    "grunt-karma": "~0.6.1",
-    "express": "~3.3.5"
+    "grunt-karma": "~0.6.1"
   }
 }

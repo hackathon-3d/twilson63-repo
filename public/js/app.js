@@ -15728,11 +15728,11 @@ angular.module("firebase").factory("angularFireAuth", [
    };
    
    $scope.cohort = [
-    {id: '21242', xtop: '150px', xleft: '185px'},
-    {id: '21242', xtop: '245px', xleft: '185px'},
-    {id: '21242', xtop: '340px', xleft: '185px'},
-    {id: '21242', xtop: '245px', xleft: '85px'},
-    {id: '21242', xtop: '245px', xleft: '285px'}
+    {id: '21242', xtop: '145px', xleft: '150px'},
+    {id: '21242', xtop: '195px', xleft: '220px'},
+    {id: '21242', xtop: '295px', xleft: '150px'},
+    {id: '21242', xtop: '215px', xleft: '70px'},
+    {id: '21242', xtop: '203px', xleft: '150px'}
    ];
    
    $scope.who = function() {

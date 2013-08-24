@@ -3,6 +3,6 @@ angular.module('App',['firebase'])
     $routeProvider
       .when('/', {
         controller: 'MainCtrl',
-        templateUrl: '/templates/main.html'
+        templateUrl: 'templates/main.html'
       });
   });

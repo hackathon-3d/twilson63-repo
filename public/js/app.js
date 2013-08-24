@@ -16415,7 +16415,7 @@ angular.module("firebase").factory("angularFireAuth", [
     $routeProvider
       .when('/', {
         controller: 'MainCtrl',
-        templateUrl: '/templates/main.html'
+        templateUrl: 'templates/main.html'
       });
   });
 ;angular.module('App')
@@ -16431,6 +16431,8 @@ angular.module("firebase").factory("angularFireAuth", [
     };
   });;angular.module('App')
   .controller('MainCtrl', function($scope, angularFire, $http) {
+    $scope.page = 'signup';
+
     navigator.geolocation.getCurrentPosition(function(position) {
       $scope.$apply(function() {
         $scope.checkin = {
@@ -16441,15 +16443,12 @@ angular.module("firebase").factory("angularFireAuth", [
       });
     });
 
-    angularFire('https://zpn.firebaseio.com/users', $scope, 'users', {});
-    $scope.page = 'signup';
-
    $scope.login = function(source) {
-     $http.post('/api/checkin', { user: $scope.user, checkin: $scope.checkin })
+     $http.post('http://zpn.herokuapp.com/api/checkin', { user: $scope.user, checkin: $scope.checkin })
        .success(function(user) {
-         $scope.page = 'main';
-         // angularFire('https://zpn.firebaseio.com/checkins/' + user.id, $scope, 'checkin', {});
-         // angularFire('https://zpn.firebaseio.com/users/' + user.id, $scope, 'user', {});
+         $scope.page = 'rank';
+         angularFire('https://zpn.firebaseio.com/cohorts/' + user.id + '/ranked-cohorts', $scope, 'users', {});
+         //localStorage.setItem('user', user.id);
        });
    };
 

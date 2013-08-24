@@ -17,7 +17,9 @@ angular.module('App')
        .success(function(user) {
          $scope.page = 'rank';
          angularFire('https://zpn.firebaseio.com/cohorts/' + user.id + '/ranked-cohorts', $scope, 'users', {});
-         //localStorage.setItem('user', user.id);
+       })
+       .error(function() {
+         alert('Invalid User!');
        });
    };
 
@@ -39,7 +41,6 @@ angular.module('App')
 
    $scope.who = function() {
      // set user
-     alert('foo');
      $scope.page = "rank";
    };
    $scope.query = 'All';

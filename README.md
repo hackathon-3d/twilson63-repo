@@ -1,5 +1,7 @@
 # zombies-pirates-ninjas
 
+### iPhone app is in the CrazyRank folder platforms/ios
+
 This application is a social check in application that uses your github account and determines if your a zombie, pirate or ninja.  Once you check in you can see other zombie's, pirates and ninjas near you.  
 
 Using a sophisticated algorithm zpn peaks into your github and gives you a rank.

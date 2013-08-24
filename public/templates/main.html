@@ -36,7 +36,7 @@
       <th><img src="img/ninja.png" style="height:40px;" /></th>
       <th><img src="img/robot.png" style="height:40px;" /></th>
     </tr>
-    <tr ng-repeat="i in cohort">
+    <tr ng-repeat="i in users">
       <td>
         <button ng-click="getProfile(i.id)">
           <i class="icon-github"></i>
@@ -45,7 +45,7 @@
       </td>
       <td>{{i.zombie_rank}}</td>
       <td>{{i.pirate_rank}}</td>
-      <td>{{i.ninja_ank}}</td>
+      <td>{{i.ninja_rank}}</td>
       <td>{{i.robot_rank}}</td>
     </tr>
     
@@ -64,7 +64,7 @@
     Rank
   </button>
   <img src="img/grid.png"></img>
-  <zpn-point ng-repeat="i in cohort" xtop="{{i.xtop}}" xleft="{{i.xleft}}"></zpn-point>
+  <zpn-point ng-repeat="i in users" xtop="{{i.xtop}}" xleft="{{i.zombie_raw}}"></zpn-point>
 </div>
 <div class="container" ng-show="page == 'profile'">
   <img class="pull-right" src="{{profile.avatar_url}}" />

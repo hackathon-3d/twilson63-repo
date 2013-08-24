@@ -31,14 +31,6 @@ angular.module('App')
      $scope.page = 'main';
    };
 
-   $scope.cohort = [
-    {id: '21292', xtop: '145px', xleft: '150px'},
-    {id: '21292', xtop: '195px', xleft: '220px'},
-    {id: '21292', xtop: '295px', xleft: '150px'},
-    {id: '21292', xtop: '215px', xleft: '70px'},
-    {id: '21292', xtop: '203px', xleft: '150px'}
-   ];
-
    $scope.who = function() {
      // set user
      $scope.page = "rank";

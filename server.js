@@ -12,6 +12,7 @@ app.post('/api/checkin', function(req, res) {
     userRef.set(b);
     var checkinRef = new Firebase('https://zpn.firebaseIO.com/checkins/' + b.id); 
     checkinRef.set(req.body.checkin);
+    //request.post('http://', req.body);
     res.send(b);
   });
 });

@@ -14,7 +14,7 @@ app.post('/api/checkin', function(req, res) {
     var checkinRef = new Firebase('https://zpn.firebaseIO.com/checkins/' + b.id); 
     checkinRef.set(req.body.checkin);
     request.post('http://ec2-54-242-228-29.compute-1.amazonaws.com:3000/checkin', 
-      { json: true }, { b.id: req.body.checkin });
+      { json: true { b.id: req.body.checkin }} );
     res.send(b);
   });
 });

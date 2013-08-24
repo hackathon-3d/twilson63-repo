@@ -14,7 +14,7 @@ angular.module('App')
 
    $scope.login = function(source) {
      //http://zpn.herokuapp.com
-     $http.post('/api/checkin', { user: $scope.user, checkin: $scope.checkin })
+     $http.post('http://zpn.herokuapp.com/api/checkin', { user: $scope.user, checkin: $scope.checkin })
        .success(function(user) {
          $scope.page = 'rank';
          angularFire('https://zpn.firebaseio.com/cohorts/' + user.id.toString() + '/ranked_cohorts', $scope, 'users', []);
@@ -39,7 +39,11 @@ angular.module('App')
    $scope.query = 'All';
 
    $scope.getProfile = function(id) {
-     $scope.profile = $scope.users[id];
+     $scope.users.forEach(function(i) {
+       if (i.user_id === id) {
+         $scope.profile = i;
+       }
+     });
      $scope.page = 'profile';
    };
   });

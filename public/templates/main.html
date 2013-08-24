@@ -36,7 +36,12 @@
       <th><img src="/img/robot.png" style="height:40px;" /></th>
     </tr>
     <tr ng-repeat="i in cohort">
-      <td>{{i.id}}</td>
+      <td>
+        <button ng-click="getProfile(i.id)">
+          <i class="icon-github"></i>
+        </button>
+        {{i.id}}
+      </td>
       <td>{{i.xleft}}</td>
       <td>{{i.xtop}}</td>
       <td>?</td>
@@ -59,4 +64,38 @@
   </button>
   <img src="/img/grid.png"></img>
   <zpn-point ng-repeat="i in cohort" xtop="{{i.xtop}}" xleft="{{i.xleft}}"></zpn-point>
+</div>
+<div class="container" ng-show="page == 'profile'">
+  <img class="pull-right" src="{{profile.avatar_url}}" />
+  <h3>{{profile.login}}</h3>
+  <table class="table">
+    <tr>
+      <th>Name</th>
+      <td>{{profile.displayName}}</td>
+    </tr>
+    <tr>
+      <th>Company</th>
+      <td>{{profile.company}}</td>
+    </tr>
+    <tr>
+      <th>Location</th>
+      <td>{{profile.location}}</td>
+    </tr>
+    <tr>
+      <th>Followers</th>
+      <td>{{profile.followers}}</td>
+    </tr>
+    <tr>
+      <th>Public Repos</th>
+      <td>{{profile.public_repos}}</td>
+    </tr>
+  </table>
+  <button class='btn btn-large' ng-click="page = 'main'">
+    <i class="icon-back"></i>
+    Back
+  </button>
+  <button class='btn btn-large pull-right' ng-click="sendEmail()">
+    <i class="icon-envelope-alt"></i>
+    Email
+  </button>
 </div>

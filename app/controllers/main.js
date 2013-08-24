@@ -1,33 +1,25 @@
 angular.module('App')
   .controller('MainCtrl', function($scope, angularFire, $http) {
+    navigator.geolocation.getCurrentPosition(function(position) {
+      $scope.$apply(function() {
+        $scope.checkin = {
+           lat: position.coords.latitude,
+           lng: position.coords.longitude,
+           stmp: new Date()
+         };
+      });
+    });
+
     angularFire('https://zpn.firebaseio.com/users', $scope, 'users', {});
-    
     $scope.page = 'signup';
-    var ref = new Firebase('https://zpn.firebaseio.com');
-    window.auth = new FirebaseSimpleLogin(ref, function(err, user) { 
-     if (err) { console.log(err); }
-     if (user) {
-       angularFire('https://zpn.firebaseio.com/checkins/' + user.id, $scope, 'checkin', {});
-       angularFire('https://zpn.firebaseio.com/users/' + user.id, $scope, 'user', {});
-       navigator.geolocation.getCurrentPosition(function(position) {
-         $scope.$apply(function() {
-           $scope.user = user;
-           $scope.checkin = {
-              lat: position.coords.latitude,
-              lng: position.coords.longitude,
-              stmp: new Date()
-            };
-           
-           $scope.page = 'main';
-         });
-       }, function(err) {
-          alert(err);
-       });
-     }
-   });
 
    $scope.login = function(source) {
-     auth.login(source);
+     $http.post('/api/checkin', { user: $scope.user, checkin: $scope.checkin })
+       .success(function(user) {
+         $scope.page = 'main';
+         // angularFire('https://zpn.firebaseio.com/checkins/' + user.id, $scope, 'checkin', {});
+         // angularFire('https://zpn.firebaseio.com/users/' + user.id, $scope, 'user', {});
+       });
    };
 
    $scope.rank = function() {

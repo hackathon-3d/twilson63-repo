@@ -7,14 +7,15 @@
 </div>
 <div class="container" ng-show="page == 'signup'">
   <center>
-  <img src="/img/zombie.png" style="height:80px;" />
-  <img src="/img/pirate.png" style="height:80px;" />
-  <img src="/img/ninja.png" style="height:80px;" />
-  <img src="/img/robot.png" style="height:80px;" />
+  <img src="img/zombie.png" style="height:80px;" />
+  <img src="img/pirate.png" style="height:80px;" />
+  <img src="img/ninja.png" style="height:80px;" />
+  <img src="img/robot.png" style="height:80px;" />
   </center>
-  <h3>Welcome, click on the github button to register to get your ranking!</h3>
+  <h3>Welcome</h3>
   <center style="margin-top: 20px;margin-bottom:20px;">
-  <button class="btn btn-large" ng-click="login('github')">
+  <input type="text" ng-model="user"></input>
+  <button class="btn btn-large" ng-click="login()">
     <i class="icon-github"></i>
     Github
   </button>
@@ -30,10 +31,10 @@
   <table class="table">
     <tr>
       <th>Username</th>
-      <th><img src="/img/zombie.png" style="height:40px;" /></th>
-      <th><img src="/img/pirate.png" style="height:40px;" /></th>
-      <th><img src="/img/ninja.png" style="height:40px;" /></th>
-      <th><img src="/img/robot.png" style="height:40px;" /></th>
+      <th><img src="img/zombie.png" style="height:40px;" /></th>
+      <th><img src="img/pirate.png" style="height:40px;" /></th>
+      <th><img src="img/ninja.png" style="height:40px;" /></th>
+      <th><img src="img/robot.png" style="height:40px;" /></th>
     </tr>
     <tr ng-repeat="i in cohort">
       <td>
@@ -62,7 +63,7 @@
     <i class="icon-user"></i>
     Rank
   </button>
-  <img src="/img/grid.png"></img>
+  <img src="img/grid.png"></img>
   <zpn-point ng-repeat="i in cohort" xtop="{{i.xtop}}" xleft="{{i.xleft}}"></zpn-point>
 </div>
 <div class="container" ng-show="page == 'profile'">

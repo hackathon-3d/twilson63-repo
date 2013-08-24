@@ -1,1 +1,49 @@
-<h1>Hello World</h1>
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a href="/" class="brand">Zombies | Pirates | Ninjas</a>
+    </div>
+  </div>
+</div>
+<div class="container" ng-show="page == 'signup'">
+  <center>
+  <img src="/img/zombie.png" style="height:80px;" />
+  <img src="/img/pirate.png" style="height:80px;" />
+  <img src="/img/ninja.png" style="height:80px;" />
+  </center>
+  <h3>Welcome, click on the github button to register to get your ranking!</h3>
+  <center style="margin-top: 20px;margin-bottom:20px;">
+  <button class="btn btn-large" ng-click="login('github')">
+    <i class="icon-github"></i>
+    Github
+  </button>
+  </center>
+  <h4>Signup from github to get your ZPN rank.</h4>
+</div>
+<div class="container" ng-show="page == 'checkin'">
+  <button class="btn btn-large pull-right" ng-click="checkin()">
+    <i class="icon-check"></i>
+    Check In
+  </button>
+  <h3>ZPN Rank</h3>
+  <div class="row">
+    <h1 class="pull-right">10</h1>
+    <img src="/img/zombie.png" style="height:80px;" />
+  </div>
+  <div class="row">
+    <h1 class="pull-right">10</h1>
+    <img src="/img/pirate.png" style="height:80px;" />
+  </div>
+  <div class="row">
+    <h1 class="pull-right">10</h1>
+    <img src="/img/ninja.png" style="height:80px;" />
+  </div>
+  <center style="margin-top:10px;">
+  <em style="font-size: 1.2em;">"Super BrainEating Swashbuckler BlackBelt"</em>
+  </center>
+</div>
+<div class="container" ng-show="page == 'main'">
+  <div style="padding: 40px;">
+    Main
+  </div>
+</div>

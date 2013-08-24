@@ -2,7 +2,7 @@ angular.module('App',['firebase'])
   .config(function($routeProvider) {
     $routeProvider
       .when('/', {
-        controller: 'SignupCtrl',
-        templateUrl: '/templates/signup.html'
+        controller: 'MainCtrl',
+        templateUrl: '/templates/main.html'
       });
   });

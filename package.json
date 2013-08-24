@@ -1,0 +1,38 @@
+{
+  "name": "twilson63-repo",
+  "version": "0.0.0",
+  "description": "This application is a social check in application that uses your github account and determines if your a zombie, pirate or ninja.  Once you check in you can see other zombie's, pirates and ninjas near you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hackathon-3d/twilson63-repo.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "265547e0266dc0b277c209f6b60ad15b50cd1ff5",
+  "bugs": {
+    "url": "https://github.com/hackathon-3d/twilson63-repo/issues"
+  },
+  "dependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-less": "~0.7.0",
+    "karma-script-launcher": "~0.1.0",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.2",
+    "karma-requirejs": "~0.1.0",
+    "karma-coffee-preprocessor": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma": "~0.10.2",
+    "grunt-karma": "~0.6.1"
+  }
+}

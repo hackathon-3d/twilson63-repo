@@ -15683,7 +15683,7 @@ angular.module("firebase").factory("angularFireAuth", [
     return {
       restrict: 'E',
       replace: true,
-      template: '<div class="point" style="top: {{xtop}};left: {{xleft}};"></div>',
+      template: '<div class="point" style="top: {{xtop}};left: {{xleft}};z-index=900;"></div>',
       scope: {
         'xtop': '@xtop',
         'xleft': '@xleft'
@@ -15705,6 +15705,7 @@ angular.module("firebase").factory("angularFireAuth", [
               lng: position.coords.longitude,
               stmp: new Date()
             };
+           
            $scope.page = 'main';
          });
        }, function(err) {
@@ -15727,13 +15728,19 @@ angular.module("firebase").factory("angularFireAuth", [
    };
    
    $scope.cohort = [
-    {xtop: '150px', xleft: '185px'},
-    {xtop: '245px', xleft: '185px'},
-    {xtop: '340px', xleft: '185px'},
-    {xtop: '245px', xleft: '85px'},
-    {xtop: '245px', xleft: '285px'}
-    
+    {id: '21242', xtop: '150px', xleft: '185px'},
+    {id: '21242', xtop: '245px', xleft: '185px'},
+    {id: '21242', xtop: '340px', xleft: '185px'},
+    {id: '21242', xtop: '245px', xleft: '85px'},
+    {id: '21242', xtop: '245px', xleft: '285px'}
    ];
+   
+   $scope.who = function() {
+     // set user
+     alert('foo');
+     $scope.page = "rank";
+   };
+   $scope.query = 'All';
    // $scope.checkin = function() {
    //   navigator.geolocation.getCurrentPosition(function(position) {
    //     var userId = localStorage.getItem('user');       localStorage.setItem('user', user.id);

@@ -27,31 +27,36 @@
     Grid
   </button>
   <h3>ZPN Rank</h3>
-  <div class="row">
-    <h1 class="pull-right">{{zombie || '?'}}</h1>
-    <img src="/img/zombie.png" style="height:80px;" />
-  </div>
-  <div class="row">
-    <h1 class="pull-right">{{pirate || '?'}}</h1>
-    <img src="/img/pirate.png" style="height:80px;" />
-  </div>
-  <div class="row">
-    <h1 class="pull-right">{{ninja || '?'}}</h1>
-    <img src="/img/ninja.png" style="height:80px;" />
-  </div>
-  <div class="row">
-    <h1 class="pull-right">{{robot || '?'}}</h1>
-    <img src="/img/robot.png" style="height:80px;" />
-  </div>
-  <center style="margin-top:10px;">
-  <em style="font-size: 1.2em;">"Click Check-In to Calculate..."</em>
-  </center>
+  <table class="table">
+    <tr>
+      <th>Username</th>
+      <th><img src="/img/zombie.png" style="height:40px;" /></th>
+      <th><img src="/img/pirate.png" style="height:40px;" /></th>
+      <th><img src="/img/ninja.png" style="height:40px;" /></th>
+      <th><img src="/img/robot.png" style="height:40px;" /></th>
+    </tr>
+    <tr ng-repeat="i in cohort">
+      <td>{{i.id}}</td>
+      <td>{{i.xleft}}</td>
+      <td>{{i.xtop}}</td>
+      <td>?</td>
+      <td>?</td>
+    </tr>
+    
+  </table>
 </div>
 <div class="container" ng-show="page == 'main'">
+  <select ng-model="query">
+    <option>All</option>
+    <option>JavaScript</option>
+    <option>Java</option>
+    <option>Ruby</option>
+    <option>Python</option>
+  </select>
   <button class="btn btn-large pull-right" ng-click="rank()">
     <i class="icon-user"></i>
     Rank
   </button>
-  <img src="/img/grid.png" />
+  <img src="/img/grid.png"></img>
   <zpn-point ng-repeat="i in cohort" xtop="{{i.xtop}}" xleft="{{i.xleft}}"></zpn-point>
 </div>
